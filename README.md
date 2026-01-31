@@ -33,7 +33,7 @@ HAVING COUNT(o.idOrder) >= 1
 Uso de `INNER JOIN` conectando 4 tabelas para entregar um relatório completo (Cliente + Veículo + Mecânico + Status).
 
 ## 📸 Diagrama EER
-![Diagrama do Banco de Dados](diagrama_oficina.png)
+![Diagrama do Banco de Dados](diagrama-oficina.png)
 
 ## 📂 Como Executar
 1. Clone o repositório.
